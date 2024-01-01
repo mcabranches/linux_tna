@@ -1,0 +1,1 @@
+/home/marcelo/linux/scripts/gdb/vmlinux-gdb.py
